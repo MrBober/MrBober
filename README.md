@@ -1,4 +1,10 @@
 ### Hi there 👋
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=MrBober&show_icons=true&theme=dark)<br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrBober&theme=dark)
+<div align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MrBober&theme=monokai" width="900" />    
+</div>
+<div align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MrBober&theme=monokai" width="300" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MrBober&theme=monokai" width="300" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MrBober&theme=monokai" width="300" />
+</div>
